@@ -991,7 +991,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure {
-  background: #000;
+  background: #fff;
   overflow: hidden;
   height: 240px;
   position: relative;
@@ -1036,7 +1036,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure .link-preview {
-  left: calc(50% - 38px);
+  left: calc(50% - 18px);
   top: calc(50% - 18px);
 }
 
@@ -1047,7 +1047,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure:hover .link-preview {
   opacity: 1;
-  left: calc(50% - 44px);
+  left: calc(50% - 18px);
 }
 
 #portfolio .portfolio-item figure:hover .link-details {
